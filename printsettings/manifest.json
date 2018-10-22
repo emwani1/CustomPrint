@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "name" : "Print settings",
+  "permissions":["storage"],
+  "description": "Quick launch printer settings",
+  "version" : "1.0.0"
+}
